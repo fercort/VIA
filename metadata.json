@@ -1,0 +1,6 @@
+{
+  "name": "VIZIA · Computer Vision & Mobility Intelligence",
+  "description": "De un píxel a una decisión. Plataforma corporativa de visión artificial e inteligencia artificial aplicada al análisis de infraestructura vial y movilidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
